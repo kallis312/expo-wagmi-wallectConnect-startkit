@@ -30,7 +30,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.truepartner312.web3reactnativedappwagmi"
     },
     "web": {
       "favicon": "./assets/favicon.png"
